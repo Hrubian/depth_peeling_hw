@@ -1,0 +1,2 @@
+vertex: blinn_phong
+fragment: blinn_phong
