@@ -2,12 +2,12 @@
 
 Simple depth-peeling in OpenGL with max 8 passes.
 
-Set the working directory to the repo root before running.
-
 The default scene contains a wooden floor and a city model on top of the floor.
 The city is translucent.
 
 ### Usage
+
+**NOTE: Set the working directory to the repo root before running.**
 
 - LMB + mouse move - moving camera around the city
 - scrolling - zooming in/out with camera
