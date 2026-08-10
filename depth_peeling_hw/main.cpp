@@ -27,7 +27,6 @@
 #include "spotlight.hpp"
 
 struct Config {
-	int currentSceneIdx = 0;
 	int numPeelingPasses = 4;
 	bool rotateScene = false;
 };
