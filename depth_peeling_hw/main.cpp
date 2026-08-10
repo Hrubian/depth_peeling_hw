@@ -1,13 +1,9 @@
 #include <iostream>
-#include <cassert>
-#include <cmath>
 #include <algorithm>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <string>
-#include <vector>
 #include <array>
-#include <optional>
 
 #include "ogl_resource.hpp"
 #include "error_handling.hpp"
@@ -19,8 +15,6 @@
 
 #include "ogl_geometry_factory.hpp"
 #include "ogl_material_factory.hpp"
-
-#include <glm/gtx/string_cast.hpp>
 
 #include "camera.hpp"
 #include "simple_scene.hpp"

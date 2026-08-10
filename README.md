@@ -18,8 +18,6 @@ The city is translucent.
 
 The current depth is printed to the console on every change.
 
-
-
 ### The code
 
 My code is the main.cpp, renderer.hpp, scene_definition.hpp and the shaders in the shaders/ folder.
