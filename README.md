@@ -25,4 +25,4 @@ The current depth is printed to the console on every change.
 My code is the main.cpp, renderer.hpp, scene_definition.hpp and the shaders in the shaders/ folder.
 
 All the utilities (utils/, stb/, glad/ folders as well as the CmakeLists.txt) are taken from the repository https://github.com/JanKolomaznik/gl_tutorials.
-Minor adjustments were done to allow scrolling and reading of the city object file.
+Minor adjustments were done to allow scrolling and reading of the city object file (AI generated).
